@@ -10,4 +10,4 @@ def hashmap(l,target):
 l=[7,42,11,133]
 target=144
 a=hashmap(l,target)
-print(a
+print(a)
