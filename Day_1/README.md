@@ -9,7 +9,7 @@ Today, I solved the **Two Sum** problem using three different approaches:
 3. Two Pointer Approach
 
 **LeetCode Problem:** Two Sum
-[leetcode.com](https://reference-url-citation.invalid/0) 1
+https://leetcode.com/problems/two-sum/
 
 ---
 
